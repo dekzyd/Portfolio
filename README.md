@@ -1,7 +1,7 @@
 Software Engineer
 -----------------
 
-Hi, I’m Oladayo, Fullstack Developer.
+Hi, I’m Oladayo, Frontend Developer.
 
 *   ✉️  You can contact me at [almostdayor@gmail.com](mailto:almostdayor@gmail.com)
 *   ⚡  I build things you use😛
