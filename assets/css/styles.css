@@ -329,7 +329,7 @@ body.dark-theme {
 .home__perfil {
   width: 170px;
   height: 260px;
-  background: var(--gradient-color);
+  background: var(--first-color);
   border-radius: 5.5rem;
   overflow: hidden;
   display: flex;
@@ -1181,19 +1181,26 @@ body.dark-theme {
     font-size: var(--biggest-font-size);
   }
   .home__blob {
-    width: 400px;
-    height: 580px;
+    width: 360px;
+    height: 540px;
     border-radius: 12.5rem;
   }
 
+  .image_bg {
+    width: 320px;
+    height: 500px;
+    border-radius: 10.6rem;
+  }
+
   .home__perfil {
-    width: 340px;
-    height: 520px;
+    width: 320px;
+    height: 500px;
     border-radius: 10.6rem;
   }
 
   .home__perfil img {
-    width: 340px;
+    /* width: 340px; */
+    width: 100%;
   }
 
   .home__shape-wawes {
