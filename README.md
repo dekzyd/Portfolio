@@ -1,7 +1,7 @@
+<h3 align="center">Hello, 👋
+</h3>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+👋;I'm+Oladayo+Adekoya....;&center=true&size=30">
-  </a>
+  I'm Oladayo Adekoya...
 </h1>
 <h3 align="center">✨ Software Engineer | MERN
 ✨
@@ -17,11 +17,18 @@
 
 ## 🔰 Let's Connect:
 <p>
- <a href="https://discord.com/users/adekoyaoladayo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="40" /></a>
-<a href="https://twitter.com/Burna_allen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eslammmm_" height="30" width="40" /></a>
-<a href="http://www.linkedin.com/in/dekzyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslammohamed117" height="30" width="40" /></a>
-
+   <a href="https://discord.com/users/adekoyaoladayo">
+     <img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&countColor=white" alt="Discord badge" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/Burna_allen/">
+     <img src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=x&logoColor=white&countColor=white" alt="Discord badge" />
+  </a>&nbsp;&nbsp;
+  <a href="http://www.linkedin.com/in/dekzyd">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>&nbsp;&nbsp;
 </p>
+
+
 
 ## ♨ Languages and Tools:
 
